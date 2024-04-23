@@ -1,0 +1,361 @@
+{
+  "build": "pyhd8ed1ab_0",
+  "build_number": 0,
+  "channel": "https://conda.anaconda.org/conda-forge/noarch",
+  "constrains": [],
+  "depends": [
+    "aiohttp <4",
+    "msgpack-python >=1,<2",
+    "python >=3.7"
+  ],
+  "extracted_package_dir": "D:\\Annaconda\\pkgs\\wslink-2.0.2-pyhd8ed1ab_0",
+  "files": [
+    "Lib/site-packages/wslink-2.0.2.dist-info/INSTALLER",
+    "Lib/site-packages/wslink-2.0.2.dist-info/METADATA",
+    "Lib/site-packages/wslink-2.0.2.dist-info/RECORD",
+    "Lib/site-packages/wslink-2.0.2.dist-info/REQUESTED",
+    "Lib/site-packages/wslink-2.0.2.dist-info/WHEEL",
+    "Lib/site-packages/wslink-2.0.2.dist-info/direct_url.json",
+    "Lib/site-packages/wslink-2.0.2.dist-info/top_level.txt",
+    "Lib/site-packages/wslink/LICENSE",
+    "Lib/site-packages/wslink/__init__.py",
+    "Lib/site-packages/wslink/backends/__init__.py",
+    "Lib/site-packages/wslink/backends/aiohttp/__init__.py",
+    "Lib/site-packages/wslink/backends/aiohttp/launcher.py",
+    "Lib/site-packages/wslink/backends/aiohttp/relay.py",
+    "Lib/site-packages/wslink/backends/generic/__init__.py",
+    "Lib/site-packages/wslink/backends/generic/core.py",
+    "Lib/site-packages/wslink/backends/jupyter/__init__.py",
+    "Lib/site-packages/wslink/backends/jupyter/core.py",
+    "Lib/site-packages/wslink/backends/tornado/__init__.py",
+    "Lib/site-packages/wslink/backends/tornado/core.py",
+    "Lib/site-packages/wslink/chunking.py",
+    "Lib/site-packages/wslink/launcher.py",
+    "Lib/site-packages/wslink/protocol.py",
+    "Lib/site-packages/wslink/publish.py",
+    "Lib/site-packages/wslink/relay.py",
+    "Lib/site-packages/wslink/server.py",
+    "Lib/site-packages/wslink/ssl_context.py",
+    "Lib/site-packages/wslink/uri.py",
+    "Lib/site-packages/wslink/websocket.py",
+    "Lib/site-packages/wslink/__pycache__/__init__.cpython-312.pyc",
+    "Lib/site-packages/wslink/backends/__pycache__/__init__.cpython-312.pyc",
+    "Lib/site-packages/wslink/backends/aiohttp/__pycache__/__init__.cpython-312.pyc",
+    "Lib/site-packages/wslink/backends/aiohttp/__pycache__/launcher.cpython-312.pyc",
+    "Lib/site-packages/wslink/backends/aiohttp/__pycache__/relay.cpython-312.pyc",
+    "Lib/site-packages/wslink/backends/generic/__pycache__/__init__.cpython-312.pyc",
+    "Lib/site-packages/wslink/backends/generic/__pycache__/core.cpython-312.pyc",
+    "Lib/site-packages/wslink/backends/jupyter/__pycache__/__init__.cpython-312.pyc",
+    "Lib/site-packages/wslink/backends/jupyter/__pycache__/core.cpython-312.pyc",
+    "Lib/site-packages/wslink/backends/tornado/__pycache__/__init__.cpython-312.pyc",
+    "Lib/site-packages/wslink/backends/tornado/__pycache__/core.cpython-312.pyc",
+    "Lib/site-packages/wslink/__pycache__/chunking.cpython-312.pyc",
+    "Lib/site-packages/wslink/__pycache__/launcher.cpython-312.pyc",
+    "Lib/site-packages/wslink/__pycache__/protocol.cpython-312.pyc",
+    "Lib/site-packages/wslink/__pycache__/publish.cpython-312.pyc",
+    "Lib/site-packages/wslink/__pycache__/relay.cpython-312.pyc",
+    "Lib/site-packages/wslink/__pycache__/server.cpython-312.pyc",
+    "Lib/site-packages/wslink/__pycache__/ssl_context.cpython-312.pyc",
+    "Lib/site-packages/wslink/__pycache__/uri.cpython-312.pyc",
+    "Lib/site-packages/wslink/__pycache__/websocket.cpython-312.pyc"
+  ],
+  "fn": "wslink-2.0.2-pyhd8ed1ab_0.conda",
+  "license": "BSD-3-Clause",
+  "link": {
+    "source": "D:\\Annaconda\\pkgs\\wslink-2.0.2-pyhd8ed1ab_0",
+    "type": 1
+  },
+  "md5": "0c046a28359b6c6f82b3a8adbf7d2f90",
+  "name": "wslink",
+  "noarch": "python",
+  "package_tarball_full_path": "D:\\Annaconda\\pkgs\\wslink-2.0.2-pyhd8ed1ab_0.conda",
+  "package_type": "noarch_python",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "site-packages/wslink-2.0.2.dist-info/INSTALLER",
+        "path_type": "hardlink",
+        "sha256": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+        "sha256_in_prefix": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+        "size_in_bytes": 5
+      },
+      {
+        "_path": "site-packages/wslink-2.0.2.dist-info/METADATA",
+        "path_type": "hardlink",
+        "sha256": "ab5b26caab0653d0a5bd64ae3ad8b6f10a604f75f4e38bf26c2b4d4d1b1d32ce",
+        "sha256_in_prefix": "ab5b26caab0653d0a5bd64ae3ad8b6f10a604f75f4e38bf26c2b4d4d1b1d32ce",
+        "size_in_bytes": 3045
+      },
+      {
+        "_path": "site-packages/wslink-2.0.2.dist-info/RECORD",
+        "path_type": "hardlink",
+        "sha256": "18408e727a6ffa21257fa97ee83314bb78254e3e1cfa514057023bf7200f7a9c",
+        "sha256_in_prefix": "18408e727a6ffa21257fa97ee83314bb78254e3e1cfa514057023bf7200f7a9c",
+        "size_in_bytes": 3375
+      },
+      {
+        "_path": "site-packages/wslink-2.0.2.dist-info/REQUESTED",
+        "path_type": "hardlink",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "sha256_in_prefix": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "size_in_bytes": 0
+      },
+      {
+        "_path": "site-packages/wslink-2.0.2.dist-info/WHEEL",
+        "path_type": "hardlink",
+        "sha256": "189eedfe4581172c1b6a02b97a8f48a14c0b5baa3239e4ca990fbd8871553714",
+        "sha256_in_prefix": "189eedfe4581172c1b6a02b97a8f48a14c0b5baa3239e4ca990fbd8871553714",
+        "size_in_bytes": 92
+      },
+      {
+        "_path": "site-packages/wslink-2.0.2.dist-info/direct_url.json",
+        "path_type": "hardlink",
+        "sha256": "0b0ddb1962de8c80433b5bbc5bce73a028179cf8e93b399d2c16d13e601cf6af",
+        "sha256_in_prefix": "0b0ddb1962de8c80433b5bbc5bce73a028179cf8e93b399d2c16d13e601cf6af",
+        "size_in_bytes": 102
+      },
+      {
+        "_path": "site-packages/wslink-2.0.2.dist-info/top_level.txt",
+        "path_type": "hardlink",
+        "sha256": "37477c7aabe1c217d6d69d723d39afc656f3863cfb6728417f2b0dbda16aa506",
+        "sha256_in_prefix": "37477c7aabe1c217d6d69d723d39afc656f3863cfb6728417f2b0dbda16aa506",
+        "size_in_bytes": 7
+      },
+      {
+        "_path": "site-packages/wslink/LICENSE",
+        "path_type": "hardlink",
+        "sha256": "238e141fb90356ac432e79e5396c3f8452f6173ed18d0ff8bcfcd9bfd3588135",
+        "sha256_in_prefix": "238e141fb90356ac432e79e5396c3f8452f6173ed18d0ff8bcfcd9bfd3588135",
+        "size_in_bytes": 1483
+      },
+      {
+        "_path": "site-packages/wslink/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "01b126fac512a062feb8ba676cad6b4928c74afc96f9b32c1875a27bb160307c",
+        "sha256_in_prefix": "01b126fac512a062feb8ba676cad6b4928c74afc96f9b32c1875a27bb160307c",
+        "size_in_bytes": 2708
+      },
+      {
+        "_path": "site-packages/wslink/backends/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "7322468e6f98c814b23845fcd68c324db277627ac0e9d07bfbe0782e7b04b472",
+        "sha256_in_prefix": "7322468e6f98c814b23845fcd68c324db277627ac0e9d07bfbe0782e7b04b472",
+        "size_in_bytes": 1214
+      },
+      {
+        "_path": "site-packages/wslink/backends/aiohttp/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "bb65314a768c24fa226dad422f57ce78cf1b4e08323b0eb39d0da219debda892",
+        "sha256_in_prefix": "bb65314a768c24fa226dad422f57ce78cf1b4e08323b0eb39d0da219debda892",
+        "size_in_bytes": 8463
+      },
+      {
+        "_path": "site-packages/wslink/backends/aiohttp/launcher.py",
+        "path_type": "hardlink",
+        "sha256": "80734cbed80d1c4c0137f401443482ad3a760782b53ec7d5f35aca6878bb0b1a",
+        "sha256_in_prefix": "80734cbed80d1c4c0137f401443482ad3a760782b53ec7d5f35aca6878bb0b1a",
+        "size_in_bytes": 8897
+      },
+      {
+        "_path": "site-packages/wslink/backends/aiohttp/relay.py",
+        "path_type": "hardlink",
+        "sha256": "a190332104e9b1068e6d65da6befd5b684ce51000b0bf40b0ddf54bd6b2961a5",
+        "sha256_in_prefix": "a190332104e9b1068e6d65da6befd5b684ce51000b0bf40b0ddf54bd6b2961a5",
+        "size_in_bytes": 13311
+      },
+      {
+        "_path": "site-packages/wslink/backends/generic/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "42eeb9816b1ddb1092b31c9b9c3b440c8e6f3231cdf85e6380f64ec8d2319c6b",
+        "sha256_in_prefix": "42eeb9816b1ddb1092b31c9b9c3b440c8e6f3231cdf85e6380f64ec8d2319c6b",
+        "size_in_bytes": 112
+      },
+      {
+        "_path": "site-packages/wslink/backends/generic/core.py",
+        "path_type": "hardlink",
+        "sha256": "ed3c74db0ce8216b31f6c4cbaca07481a65c4e4d894ff381633fd938e9637c05",
+        "sha256_in_prefix": "ed3c74db0ce8216b31f6c4cbaca07481a65c4e4d894ff381633fd938e9637c05",
+        "size_in_bytes": 4356
+      },
+      {
+        "_path": "site-packages/wslink/backends/jupyter/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "42eeb9816b1ddb1092b31c9b9c3b440c8e6f3231cdf85e6380f64ec8d2319c6b",
+        "sha256_in_prefix": "42eeb9816b1ddb1092b31c9b9c3b440c8e6f3231cdf85e6380f64ec8d2319c6b",
+        "size_in_bytes": 112
+      },
+      {
+        "_path": "site-packages/wslink/backends/jupyter/core.py",
+        "path_type": "hardlink",
+        "sha256": "3c240dfae64f1513a746ff01e5d3709f01d5ebba3806999edff67a57ecdb3940",
+        "sha256_in_prefix": "3c240dfae64f1513a746ff01e5d3709f01d5ebba3806999edff67a57ecdb3940",
+        "size_in_bytes": 3864
+      },
+      {
+        "_path": "site-packages/wslink/backends/tornado/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "42eeb9816b1ddb1092b31c9b9c3b440c8e6f3231cdf85e6380f64ec8d2319c6b",
+        "sha256_in_prefix": "42eeb9816b1ddb1092b31c9b9c3b440c8e6f3231cdf85e6380f64ec8d2319c6b",
+        "size_in_bytes": 112
+      },
+      {
+        "_path": "site-packages/wslink/backends/tornado/core.py",
+        "path_type": "hardlink",
+        "sha256": "b4f3249215ae3bfa2f922b158a6d3371e83064a1001b821151d77f3bfd1afd1d",
+        "sha256_in_prefix": "b4f3249215ae3bfa2f922b158a6d3371e83064a1001b821151d77f3bfd1afd1d",
+        "size_in_bytes": 2157
+      },
+      {
+        "_path": "site-packages/wslink/chunking.py",
+        "path_type": "hardlink",
+        "sha256": "60aae5fa0c0cdfc22df1de814ae270470ff92d0830e0ec09b255797a317255b5",
+        "sha256_in_prefix": "60aae5fa0c0cdfc22df1de814ae270470ff92d0830e0ec09b255797a317255b5",
+        "size_in_bytes": 7282
+      },
+      {
+        "_path": "site-packages/wslink/launcher.py",
+        "path_type": "hardlink",
+        "sha256": "f1532cde3b8e6cb93219840534b8cca28e2a1692887315b3d244be69ff8328ee",
+        "sha256_in_prefix": "f1532cde3b8e6cb93219840534b8cca28e2a1692887315b3d244be69ff8328ee",
+        "size_in_bytes": 21170
+      },
+      {
+        "_path": "site-packages/wslink/protocol.py",
+        "path_type": "hardlink",
+        "sha256": "cdd7f842d8451e9020130de14d4cb268eb8defa8f31de389069bde90f6e4eda6",
+        "sha256_in_prefix": "cdd7f842d8451e9020130de14d4cb268eb8defa8f31de389069bde90f6e4eda6",
+        "size_in_bytes": 15886
+      },
+      {
+        "_path": "site-packages/wslink/publish.py",
+        "path_type": "hardlink",
+        "sha256": "f46e535eac86afe2c2a3f2f01d887389fea5846da25c3bc4066120c11f1f8753",
+        "sha256_in_prefix": "f46e535eac86afe2c2a3f2f01d887389fea5846da25c3bc4066120c11f1f8753",
+        "size_in_bytes": 1437
+      },
+      {
+        "_path": "site-packages/wslink/relay.py",
+        "path_type": "hardlink",
+        "sha256": "13c2f3bb6032eca6ce85e375f80ac065ac28f252ea7438095ce65206e3249d8b",
+        "sha256_in_prefix": "13c2f3bb6032eca6ce85e375f80ac065ac28f252ea7438095ce65206e3249d8b",
+        "size_in_bytes": 86
+      },
+      {
+        "_path": "site-packages/wslink/server.py",
+        "path_type": "hardlink",
+        "sha256": "912d2fd7bba276ae9ab85e24da40f82ff14753a8be39dc6f1b6b47d4a7893a99",
+        "sha256_in_prefix": "912d2fd7bba276ae9ab85e24da40f82ff14753a8be39dc6f1b6b47d4a7893a99",
+        "size_in_bytes": 9325
+      },
+      {
+        "_path": "site-packages/wslink/ssl_context.py",
+        "path_type": "hardlink",
+        "sha256": "84d38924276b4adc2cd507fabcfbd8e2f4e4f417fc27977dd16ddf4b4711bfca",
+        "sha256_in_prefix": "84d38924276b4adc2cd507fabcfbd8e2f4e4f417fc27977dd16ddf4b4711bfca",
+        "size_in_bytes": 2290
+      },
+      {
+        "_path": "site-packages/wslink/uri.py",
+        "path_type": "hardlink",
+        "sha256": "c28090e320a152a4cc83d213e98603b5461e2a60a0ece502120781180fb5f436",
+        "sha256_in_prefix": "c28090e320a152a4cc83d213e98603b5461e2a60a0ece502120781180fb5f436",
+        "size_in_bytes": 384
+      },
+      {
+        "_path": "site-packages/wslink/websocket.py",
+        "path_type": "hardlink",
+        "sha256": "a41896aa42fc667f0bb9227d9efdf203e2a31329dba25390da02c7b50149d887",
+        "sha256_in_prefix": "a41896aa42fc667f0bb9227d9efdf203e2a31329dba25390da02c7b50149d887",
+        "size_in_bytes": 4611
+      },
+      {
+        "_path": "Lib/site-packages/wslink/__pycache__/__init__.cpython-312.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/wslink/backends/__pycache__/__init__.cpython-312.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/wslink/backends/aiohttp/__pycache__/__init__.cpython-312.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/wslink/backends/aiohttp/__pycache__/launcher.cpython-312.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/wslink/backends/aiohttp/__pycache__/relay.cpython-312.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/wslink/backends/generic/__pycache__/__init__.cpython-312.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/wslink/backends/generic/__pycache__/core.cpython-312.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/wslink/backends/jupyter/__pycache__/__init__.cpython-312.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/wslink/backends/jupyter/__pycache__/core.cpython-312.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/wslink/backends/tornado/__pycache__/__init__.cpython-312.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/wslink/backends/tornado/__pycache__/core.cpython-312.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/wslink/__pycache__/chunking.cpython-312.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/wslink/__pycache__/launcher.cpython-312.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/wslink/__pycache__/protocol.cpython-312.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/wslink/__pycache__/publish.cpython-312.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/wslink/__pycache__/relay.cpython-312.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/wslink/__pycache__/server.cpython-312.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/wslink/__pycache__/ssl_context.cpython-312.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/wslink/__pycache__/uri.cpython-312.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/wslink/__pycache__/websocket.cpython-312.pyc",
+        "path_type": "pyc_file"
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "sha256": "388dc4cfbcf0b6aed0e1d89b4a0443edcc10f5998f4a014e8bcc4954d669e881",
+  "size": 33963,
+  "subdir": "noarch",
+  "timestamp": 1713491049000,
+  "url": "https://conda.anaconda.org/conda-forge/noarch/wslink-2.0.2-pyhd8ed1ab_0.conda",
+  "version": "2.0.2"
+}

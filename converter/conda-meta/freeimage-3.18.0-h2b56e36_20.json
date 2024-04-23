@@ -1,0 +1,101 @@
+{
+  "build": "h2b56e36_20",
+  "build_number": 20,
+  "channel": "https://conda.anaconda.org/conda-forge/win-64",
+  "constrains": [],
+  "depends": [
+    "imath >=3.1.11,<3.1.12.0a0",
+    "jxrlib >=1.1,<1.2.0a0",
+    "libjpeg-turbo >=3.0.0,<4.0a0",
+    "libpng >=1.6.43,<1.7.0a0",
+    "libraw >=0.21.1,<0.22.0a0",
+    "libtiff >=4.6.0,<4.7.0a0",
+    "libwebp-base >=1.3.2,<2.0a0",
+    "libzlib >=1.2.13,<1.3.0a0",
+    "openexr >=3.2.2,<3.3.0a0",
+    "openjpeg >=2.5.2,<3.0a0",
+    "ucrt >=10.0.20348.0",
+    "vc >=14.2,<15",
+    "vc14_runtime >=14.29.30139"
+  ],
+  "extracted_package_dir": "D:\\Annaconda\\pkgs\\freeimage-3.18.0-h2b56e36_20",
+  "files": [
+    "Library/bin/FreeImage.dll",
+    "Library/bin/freeimageplus.dll",
+    "Library/include/FreeImage.h",
+    "Library/include/FreeImageConfig.h",
+    "Library/include/FreeImagePlus.h",
+    "Library/lib/FreeImage.lib",
+    "Library/lib/freeimageplus.lib"
+  ],
+  "fn": "freeimage-3.18.0-h2b56e36_20.conda",
+  "license": "GPL-2.0-or-later OR GPL-3.0-or-later OR FreeImage",
+  "link": {
+    "source": "D:\\Annaconda\\pkgs\\freeimage-3.18.0-h2b56e36_20",
+    "type": 1
+  },
+  "md5": "edf5248ab529f40786a1771601cf5e6b",
+  "name": "freeimage",
+  "package_tarball_full_path": "D:\\Annaconda\\pkgs\\freeimage-3.18.0-h2b56e36_20.conda",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "Library/bin/FreeImage.dll",
+        "path_type": "hardlink",
+        "sha256": "8aabc2f87f2cc6968f1340875b48664b93f2593888e0234dfd062ecc9725d7b3",
+        "sha256_in_prefix": "8aabc2f87f2cc6968f1340875b48664b93f2593888e0234dfd062ecc9725d7b3",
+        "size_in_bytes": 1108992
+      },
+      {
+        "_path": "Library/bin/freeimageplus.dll",
+        "path_type": "hardlink",
+        "sha256": "1f0d28594d54c0926410e4045e25d17274aacc5360ff63ee80f6875013d2d931",
+        "sha256_in_prefix": "1f0d28594d54c0926410e4045e25d17274aacc5360ff63ee80f6875013d2d931",
+        "size_in_bytes": 50688
+      },
+      {
+        "_path": "Library/include/FreeImage.h",
+        "path_type": "hardlink",
+        "sha256": "0ab2a2deeccfa63590a88318fae0b27e9989e81cdf0df2d70f2c8cdfbdad5dfc",
+        "sha256_in_prefix": "0ab2a2deeccfa63590a88318fae0b27e9989e81cdf0df2d70f2c8cdfbdad5dfc",
+        "size_in_bytes": 59578
+      },
+      {
+        "_path": "Library/include/FreeImageConfig.h",
+        "path_type": "hardlink",
+        "sha256": "46e51cfc8ae27c9e0ea150ff495e3a029115cbd69b5d0cf71689f63c7eb67cc0",
+        "sha256_in_prefix": "46e51cfc8ae27c9e0ea150ff495e3a029115cbd69b5d0cf71689f63c7eb67cc0",
+        "size_in_bytes": 90
+      },
+      {
+        "_path": "Library/include/FreeImagePlus.h",
+        "path_type": "hardlink",
+        "sha256": "b5ba246f31150e32fdb08fe3b81e6a0816c187018fdddd3a87d534f855882c1b",
+        "sha256_in_prefix": "b5ba246f31150e32fdb08fe3b81e6a0816c187018fdddd3a87d534f855882c1b",
+        "size_in_bytes": 59339
+      },
+      {
+        "_path": "Library/lib/FreeImage.lib",
+        "path_type": "hardlink",
+        "sha256": "90e1423957e98b94ccd08d3547de51a437068fac2c362d1ae12476ab272edd0a",
+        "sha256_in_prefix": "90e1423957e98b94ccd08d3547de51a437068fac2c362d1ae12476ab272edd0a",
+        "size_in_bytes": 63198
+      },
+      {
+        "_path": "Library/lib/freeimageplus.lib",
+        "path_type": "hardlink",
+        "sha256": "4be0b857dc780892bf8bb5e4a27b2b9b775f454b1f682755d9e695ce890ef936",
+        "sha256_in_prefix": "4be0b857dc780892bf8bb5e4a27b2b9b775f454b1f682755d9e695ce890ef936",
+        "size_in_bytes": 68708
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "sha256": "d468cc411cc1f2026bb0f0824cef91c0c169bb15bbb896c9296983544d4a4c62",
+  "size": 464417,
+  "subdir": "win-64",
+  "timestamp": 1709289209000,
+  "url": "https://conda.anaconda.org/conda-forge/win-64/freeimage-3.18.0-h2b56e36_20.conda",
+  "version": "3.18.0"
+}

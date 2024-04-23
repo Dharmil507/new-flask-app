@@ -1,0 +1,14 @@
+prefix=D:/Annaconda/envs/converter/Library
+exec_prefix=${prefix}
+libdir=D:/Annaconda/envs/converter/Library/lib
+includedir=D:/Annaconda/envs/converter/Library/include
+
+Name: libswscale
+Description: FFmpeg image rescaling library
+Version: 7.5.100
+Requires: 
+Requires.private: libavutil >= 58.29.100
+Conflicts:
+Libs: -L${libdir}  -lswscale 
+Libs.private: 
+Cflags: -I${includedir}

@@ -1,0 +1,12 @@
+prefix=D:/Annaconda/envs/converter/Library
+exec_prefix=D:/Annaconda/envs/converter/Library
+libdir=D:/Annaconda/envs/converter/Library/lib
+includedir=D:/Annaconda/envs/converter/Library/include/libpng16
+
+Name: libpng
+Description: Loads and saves PNG files
+Version: 1.6.43
+Requires.private: zlib
+Libs: -L${libdir} -lpng16
+Libs.private: -lz
+Cflags: -I${includedir}

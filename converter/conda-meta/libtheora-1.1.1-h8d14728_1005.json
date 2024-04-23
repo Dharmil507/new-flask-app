@@ -1,0 +1,116 @@
+{
+  "build": "h8d14728_1005",
+  "build_number": 1005,
+  "channel": "https://conda.anaconda.org/conda-forge/win-64",
+  "constrains": [],
+  "depends": [
+    "libogg 1.3.*",
+    "libogg >=1.3.4,<1.4.0a0",
+    "vc >=14.1,<15.0a0",
+    "vs2015_runtime >=14.16.27012"
+  ],
+  "extracted_package_dir": "D:\\Annaconda\\pkgs\\libtheora-1.1.1-h8d14728_1005",
+  "files": [
+    "Library/bin/theora.dll",
+    "Library/bin/theoradec.dll",
+    "Library/bin/theoraenc.dll",
+    "Library/include/theora/codec.h",
+    "Library/include/theora/theora.h",
+    "Library/include/theora/theoradec.h",
+    "Library/include/theora/theoraenc.h",
+    "Library/lib/theora.lib",
+    "Library/lib/theoradec.lib",
+    "Library/lib/theoraenc.lib"
+  ],
+  "fn": "libtheora-1.1.1-h8d14728_1005.tar.bz2",
+  "license": "BSD-3-Clause",
+  "link": {
+    "source": "D:\\Annaconda\\pkgs\\libtheora-1.1.1-h8d14728_1005",
+    "type": 1
+  },
+  "md5": "8ad3f8ea1dbd5ac4fe1299a3250cbd1b",
+  "name": "libtheora",
+  "package_tarball_full_path": "D:\\Annaconda\\pkgs\\libtheora-1.1.1-h8d14728_1005.tar.bz2",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "Library/bin/theora.dll",
+        "path_type": "hardlink",
+        "sha256": "ad1efaafdecf42980995bdc88f489a08cd544afc3d5736a3210467bc454971dd",
+        "sha256_in_prefix": "ad1efaafdecf42980995bdc88f489a08cd544afc3d5736a3210467bc454971dd",
+        "size_in_bytes": 209408
+      },
+      {
+        "_path": "Library/bin/theoradec.dll",
+        "path_type": "hardlink",
+        "sha256": "15e7688f5f543e98e73128eaeccc75bc6458817547c90ddfcbe4c58b2a10ed41",
+        "sha256_in_prefix": "15e7688f5f543e98e73128eaeccc75bc6458817547c90ddfcbe4c58b2a10ed41",
+        "size_in_bytes": 64512
+      },
+      {
+        "_path": "Library/bin/theoraenc.dll",
+        "path_type": "hardlink",
+        "sha256": "f58d79fb1df6848e6b3b232d97168c36d8d115bb642ffcf5a376852c8cf3dea7",
+        "sha256_in_prefix": "f58d79fb1df6848e6b3b232d97168c36d8d115bb642ffcf5a376852c8cf3dea7",
+        "size_in_bytes": 175104
+      },
+      {
+        "_path": "Library/include/theora/codec.h",
+        "path_type": "hardlink",
+        "sha256": "9d2a883735d6557cda50c8444371d60c585fd5a4a8a4287e7d5dbe5df5c324b7",
+        "sha256_in_prefix": "9d2a883735d6557cda50c8444371d60c585fd5a4a8a4287e7d5dbe5df5c324b7",
+        "size_in_bytes": 25695
+      },
+      {
+        "_path": "Library/include/theora/theora.h",
+        "path_type": "hardlink",
+        "sha256": "3298b7b068873d37fe9eb8cfc885ee925416f90758a69d57b9743c8cc10817b1",
+        "sha256_in_prefix": "3298b7b068873d37fe9eb8cfc885ee925416f90758a69d57b9743c8cc10817b1",
+        "size_in_bytes": 33293
+      },
+      {
+        "_path": "Library/include/theora/theoradec.h",
+        "path_type": "hardlink",
+        "sha256": "432d318ad1f926afb3c35e2643c2eb7e1c482347ea892f4e99b295387fc63a2e",
+        "sha256_in_prefix": "432d318ad1f926afb3c35e2643c2eb7e1c482347ea892f4e99b295387fc63a2e",
+        "size_in_bytes": 15877
+      },
+      {
+        "_path": "Library/include/theora/theoraenc.h",
+        "path_type": "hardlink",
+        "sha256": "fcface15b74a6cf6ea1e0ac3683fc3c5b27a89d6496e7476c92a19eae1a09e9d",
+        "sha256_in_prefix": "fcface15b74a6cf6ea1e0ac3683fc3c5b27a89d6496e7476c92a19eae1a09e9d",
+        "size_in_bytes": 25309
+      },
+      {
+        "_path": "Library/lib/theora.lib",
+        "path_type": "hardlink",
+        "sha256": "09502f03e92c2e0da7c5df26db45dc77f467c0984302dfad88295d26afb2e54c",
+        "sha256_in_prefix": "09502f03e92c2e0da7c5df26db45dc77f467c0984302dfad88295d26afb2e54c",
+        "size_in_bytes": 13526
+      },
+      {
+        "_path": "Library/lib/theoradec.lib",
+        "path_type": "hardlink",
+        "sha256": "e5b9246cf9afec2bb3627665764f0570e751c8c633068a76c436f2cf612e13bb",
+        "sha256_in_prefix": "e5b9246cf9afec2bb3627665764f0570e751c8c633068a76c436f2cf612e13bb",
+        "size_in_bytes": 10670
+      },
+      {
+        "_path": "Library/lib/theoraenc.lib",
+        "path_type": "hardlink",
+        "sha256": "9d7d84edadab6a706fc2e8bdcd38321408e6065f52cbc5ab614a1a773b3c0486",
+        "sha256_in_prefix": "9d7d84edadab6a706fc2e8bdcd38321408e6065f52cbc5ab614a1a773b3c0486",
+        "size_in_bytes": 4628
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "sha256": "41bed432fee99b129f95bcfe057296373098fdb06be763b40ae9baba554b2e64",
+  "size": 206136,
+  "subdir": "win-64",
+  "timestamp": 1618478588000,
+  "url": "https://conda.anaconda.org/conda-forge/win-64/libtheora-1.1.1-h8d14728_1005.tar.bz2",
+  "version": "1.1.1"
+}

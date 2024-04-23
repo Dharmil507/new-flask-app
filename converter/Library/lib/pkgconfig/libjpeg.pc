@@ -1,0 +1,10 @@
+prefix=D:/Annaconda/envs/converter/Library
+exec_prefix=D:/Annaconda/envs/converter/Library
+libdir=D:/Annaconda/envs/converter/Library/lib
+includedir=D:/Annaconda/envs/converter/Library/include
+
+Name: libjpeg
+Description: A SIMD-accelerated JPEG codec that provides the libjpeg API
+Version: 3.0.0
+Libs: -L${libdir} -ljpeg
+Cflags: -I${includedir}

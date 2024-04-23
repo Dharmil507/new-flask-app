@@ -1,0 +1,13 @@
+prefix=D:/Annaconda/envs/converter/Library
+exec_prefix=D:/Annaconda/envs/converter/Library
+libdir=D:/Annaconda/envs/converter/Library/lib
+sharedlibdir=D:/Annaconda/envs/converter/Library/lib
+includedir=D:/Annaconda/envs/converter/Library/include
+
+Name: zlib
+Description: zlib compression library
+Version: 1.2.13
+
+Requires:
+Libs: -L${libdir} -L${sharedlibdir} -lz
+Cflags: -I${includedir}

@@ -1,0 +1,14 @@
+# libvorbisfile pkg-config source file
+
+prefix=D:/Annaconda/envs/converter/Library
+exec_prefix=D:/Annaconda/envs/converter/Library/bin
+libdir=D:/Annaconda/envs/converter/Library/lib
+includedir=D:/Annaconda/envs/converter/Library/include
+
+Name: vorbisfile
+Description: vorbisfile is a library that provides a convenient high-level API for decoding and basic manipulation of all Vorbis I audio streams
+Version: 1.3.7
+Requires.private: vorbis
+Conflicts:
+Libs: -L${libdir} -lvorbisfile
+Cflags: -I${includedir}

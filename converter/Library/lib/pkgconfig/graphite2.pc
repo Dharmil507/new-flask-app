@@ -1,0 +1,11 @@
+prefix=D:/Annaconda/envs/converter/Library
+exec_prefix=D:/Annaconda/envs/converter/Library
+libdir=D:/Annaconda/envs/converter/Library/lib
+includedir=D:/Annaconda/envs/converter/Library/include
+
+Name: Graphite2
+Description: Font rendering engine for Complex Scripts
+Version: 3.0.1
+Libs: -LD:/Annaconda/envs/converter/Library/lib -lgraphite2
+Cflags: -ID:/Annaconda/envs/converter/Library/include
+

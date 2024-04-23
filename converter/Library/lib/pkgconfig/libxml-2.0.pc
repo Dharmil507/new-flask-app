@@ -1,0 +1,11 @@
+prefix=D:/Annaconda/envs/converter/Library 
+exec_prefix=D:/Annaconda/envs/converter/Library 
+libdir=D:/Annaconda/envs/converter/Library/lib 
+includedir=D:/Annaconda/envs/converter/Library/include 
+modules=0 
+Name: libXML 
+Version: 2.12.6 
+Description: libXML library version2. 
+Requires: 
+Libs: -LD:/Annaconda/envs/converter/Library/lib -lxml2 -liconv -lz 
+Cflags: -ID:/Annaconda/envs/converter/Library/include/libxml2 -ID:/Annaconda/envs/converter/Library/include 

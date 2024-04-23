@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Upload and View STL File</title>
+</head>
+<body>
+    <h1>Upload and View STL File</h1>
+    <form method="post" enctype="multipart/form-data">
+        <input type="file" name="file">
+        <input type="submit" value="Upload">
+    </form>
+
+    {% if stl_path %}
+        <h2>Uploaded STL File:</h2>
+        <p>{{ stl_path }}</p>
+    {% endif %}
+</body>
+</html>

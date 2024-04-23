@@ -1,0 +1,112 @@
+{
+  "build": "pyhd8ed1ab_0",
+  "build_number": 0,
+  "channel": "https://conda.anaconda.org/conda-forge/noarch",
+  "constrains": [],
+  "depends": [
+    "python >=3.5"
+  ],
+  "extracted_package_dir": "D:\\Annaconda\\pkgs\\win32_setctime-1.1.0-pyhd8ed1ab_0",
+  "files": [
+    "Lib/site-packages/win32_setctime-1.1.0.dist-info/INSTALLER",
+    "Lib/site-packages/win32_setctime-1.1.0.dist-info/LICENSE",
+    "Lib/site-packages/win32_setctime-1.1.0.dist-info/METADATA",
+    "Lib/site-packages/win32_setctime-1.1.0.dist-info/RECORD",
+    "Lib/site-packages/win32_setctime-1.1.0.dist-info/REQUESTED",
+    "Lib/site-packages/win32_setctime-1.1.0.dist-info/WHEEL",
+    "Lib/site-packages/win32_setctime-1.1.0.dist-info/direct_url.json",
+    "Lib/site-packages/win32_setctime-1.1.0.dist-info/top_level.txt",
+    "Lib/site-packages/win32_setctime.py",
+    "Lib/site-packages/__pycache__/win32_setctime.cpython-312.pyc"
+  ],
+  "fn": "win32_setctime-1.1.0-pyhd8ed1ab_0.tar.bz2",
+  "license": "MIT",
+  "link": {
+    "source": "D:\\Annaconda\\pkgs\\win32_setctime-1.1.0-pyhd8ed1ab_0",
+    "type": 1
+  },
+  "md5": "dc80c0c2b01f7d6d6d5df4b63ef54f17",
+  "name": "win32_setctime",
+  "noarch": "python",
+  "package_tarball_full_path": "D:\\Annaconda\\pkgs\\win32_setctime-1.1.0-pyhd8ed1ab_0.tar.bz2",
+  "package_type": "noarch_python",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "site-packages/win32_setctime-1.1.0.dist-info/INSTALLER",
+        "path_type": "hardlink",
+        "sha256": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+        "sha256_in_prefix": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+        "size_in_bytes": 5
+      },
+      {
+        "_path": "site-packages/win32_setctime-1.1.0.dist-info/LICENSE",
+        "path_type": "hardlink",
+        "sha256": "f008ea6516d26de1d810045928bf24c4462bd195d2d6bf94f44c4efa3172a5b1",
+        "sha256_in_prefix": "f008ea6516d26de1d810045928bf24c4462bd195d2d6bf94f44c4efa3172a5b1",
+        "size_in_bytes": 1084
+      },
+      {
+        "_path": "site-packages/win32_setctime-1.1.0.dist-info/METADATA",
+        "path_type": "hardlink",
+        "sha256": "10357355719213c90495b03873a0ba3dd0ea277a8736c4bba78c9ab84db1740d",
+        "sha256_in_prefix": "10357355719213c90495b03873a0ba3dd0ea277a8736c4bba78c9ab84db1740d",
+        "size_in_bytes": 2289
+      },
+      {
+        "_path": "site-packages/win32_setctime-1.1.0.dist-info/RECORD",
+        "path_type": "hardlink",
+        "sha256": "181ba71906a8e3ac4f4501a6459d35cdca3a8ac43945b98706c9a6ebfcb6d0d2",
+        "sha256_in_prefix": "181ba71906a8e3ac4f4501a6459d35cdca3a8ac43945b98706c9a6ebfcb6d0d2",
+        "size_in_bytes": 840
+      },
+      {
+        "_path": "site-packages/win32_setctime-1.1.0.dist-info/REQUESTED",
+        "path_type": "hardlink",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "sha256_in_prefix": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "size_in_bytes": 0
+      },
+      {
+        "_path": "site-packages/win32_setctime-1.1.0.dist-info/WHEEL",
+        "path_type": "hardlink",
+        "sha256": "1b5e87e00dc87a84269cead8578b9e6462928e18a95f1f3373c9eef451a5bcc0",
+        "sha256_in_prefix": "1b5e87e00dc87a84269cead8578b9e6462928e18a95f1f3373c9eef451a5bcc0",
+        "size_in_bytes": 92
+      },
+      {
+        "_path": "site-packages/win32_setctime-1.1.0.dist-info/direct_url.json",
+        "path_type": "hardlink",
+        "sha256": "409ae181f1de281901cd10e14bdcc5da7348194c84a87fcd41be35d5dad7d1bf",
+        "sha256_in_prefix": "409ae181f1de281901cd10e14bdcc5da7348194c84a87fcd41be35d5dad7d1bf",
+        "size_in_bytes": 110
+      },
+      {
+        "_path": "site-packages/win32_setctime-1.1.0.dist-info/top_level.txt",
+        "path_type": "hardlink",
+        "sha256": "2406b6cba4fcc2834ad005fe738b070d7799927dcdb4468ccd35cc21ce03b328",
+        "sha256_in_prefix": "2406b6cba4fcc2834ad005fe738b070d7799927dcdb4468ccd35cc21ce03b328",
+        "size_in_bytes": 15
+      },
+      {
+        "_path": "site-packages/win32_setctime.py",
+        "path_type": "hardlink",
+        "sha256": "cba3a9caf7046dba3de8fa851175cb45cecab8a5860d9e5ab35341299b9aee1f",
+        "sha256_in_prefix": "cba3a9caf7046dba3de8fa851175cb45cecab8a5860d9e5ab35341299b9aee1f",
+        "size_in_bytes": 2226
+      },
+      {
+        "_path": "Lib/site-packages/__pycache__/win32_setctime.cpython-312.pyc",
+        "path_type": "pyc_file"
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "sha256": "b2c4dfa3dcf888b9449a4a2fd480b2db4e9167838d91df15fe745f9ba7adff95",
+  "size": 7389,
+  "subdir": "noarch",
+  "timestamp": 1642883658000,
+  "url": "https://conda.anaconda.org/conda-forge/noarch/win32_setctime-1.1.0-pyhd8ed1ab_0.tar.bz2",
+  "version": "1.1.0"
+}

@@ -1,0 +1,31 @@
+{
+  "build": "qt_py312h1234567_220",
+  "build_number": 220,
+  "channel": "https://conda.anaconda.org/conda-forge/win-64",
+  "constrains": [],
+  "depends": [
+    "vtk-base 9.2.6 qt_py312h1234567_220"
+  ],
+  "extracted_package_dir": "D:\\Annaconda\\pkgs\\vtk-9.2.6-qt_py312h1234567_220",
+  "files": [],
+  "fn": "vtk-9.2.6-qt_py312h1234567_220.conda",
+  "license": "BSD-3-Clause",
+  "link": {
+    "source": "D:\\Annaconda\\pkgs\\vtk-9.2.6-qt_py312h1234567_220",
+    "type": 1
+  },
+  "md5": "8cfb673627c194691af9ca2b8bcb6731",
+  "name": "vtk",
+  "package_tarball_full_path": "D:\\Annaconda\\pkgs\\vtk-9.2.6-qt_py312h1234567_220.conda",
+  "paths_data": {
+    "paths": [],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "sha256": "452aba1a5fe61bd4eb5dce5a49b0b3e01166afb13c2841d3312a0a91c757c6a5",
+  "size": 14408,
+  "subdir": "win-64",
+  "timestamp": 1702972058000,
+  "url": "https://conda.anaconda.org/conda-forge/win-64/vtk-9.2.6-qt_py312h1234567_220.conda",
+  "version": "9.2.6"
+}
